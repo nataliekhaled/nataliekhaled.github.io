@@ -55,8 +55,15 @@ ul
     margin: 8% 3%;
     display: block;
     color: darkcyan;
-    background-color: white;
+    background-color: lightcyan;
     border:   dotted;
+    font-size:19px;
+    font-style: italic;
+     
+}
+img{
+    border:dotted;
+    text-align:center;
 }
 
 
