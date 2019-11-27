@@ -5,3 +5,24 @@
 h1{
     text-align:center;
 }
+h2{
+    text-align:center;
+}
+nav{
+    align-content:center;
+    margin:0% 5%;
+    padding: 0% 0% 0% 0%;
+}
+.navv{
+    text-decoration:none;
+    font-size:14px;
+    background:purple;
+    margin:2px;
+    color:white;
+    padding:.25% 1.5% .25% 1.5%;
+    text-align: center;
+    float:left;
+    border-radius: 12px;
+    
+}
+
