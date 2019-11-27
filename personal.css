@@ -30,11 +30,32 @@ nav{
     padding: 10px 30px;
     margin: 10% 5%;
     display:block;
-    text-decoration:dotted;
+    color:rebeccapurple;
+    background-color:white;
+    border:dashed;
 
 }
-ol{
-    text-decoration:wavy;
-    color:white;
+ol {
+    text-decoration: wavy;
+    
+    text-align: center;
+    padding: 20px 30px;
+    margin: 12% 2%;
+    display: block;
+    color: rebeccapurple;
+    background-color: white;
+    border: double;
+}
+
+ul 
+{
+    text-decoration: wavy;
+    text-align: center;
+    padding: 20px 30px;
+    margin: 12% 2%;
+    display: block;
+    color: indianred;
+    background-color: white;
+    border:  outset;
 }
 
